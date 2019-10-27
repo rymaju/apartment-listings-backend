@@ -30,4 +30,4 @@ API Endpoints:
 - Find All: GET https://apartment-listing-backend.herokuapp.com/apartments
 - Find By ID: GET https://apartment-listing-backend.herokuapp.com/apartments/:id
 - Update: POST https://apartment-listing-backend.herokuapp.com/apartments/update/:id
-- Delete: DELETE https://apartment-listing-backend.herokuapp.com/apartments/delete:id
+- Delete: DELETE https://apartment-listing-backend.herokuapp.com/apartments/delete/:id
